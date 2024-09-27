@@ -1,2 +1,4 @@
 # LCD-STM32F103C8T6
 通过STM32F103C8T6驱动0.96寸LCD屏幕，尝试加入LVGL
+
+Driving a 0.96" LCD screen via STM32F103C8T6, trying to add LVGL
